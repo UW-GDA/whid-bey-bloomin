@@ -15,7 +15,8 @@ Datasets:
 - King County and Dept of Ecology: chlorophyll concentrations, dissolved oxygen concentrations at discrete sites with high residence times https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/science-services/puget-sound-marine-monitoring/water-topic-page/whidbey-basin-offshore 
 - LiveOcean numerical model output: water residence time https://faculty.washington.edu/pmacc/LO/LiveOcean.html 
 - Sentinel-2 data (https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2)  
-- Landsat-8 data https://www.usgs.gov/landsat-missions/landsat-data-access 
+- Landsat-8 data https://www.usgs.gov/landsat-missions/landsat-data-access
+- Stilanguamish River near Arlington, WA - USGS 12167000 https://waterdata.usgs.gov/monitoring-location/USGS-12167000/#dataTypeId=continuous-00060-0&period=P365D&showFieldMeasurements=true&showMedian=true
 
 Tools/packages: (primarily based off Lab 8 so far) (not comprehensive yet!)
 - Geopandas 
