@@ -1,3 +1,6 @@
+data/
+2022to2026_ndci_median.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
